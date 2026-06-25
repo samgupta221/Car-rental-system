@@ -1,1 +1,1 @@
-# Car-rental-system - java project
+# Car-rental-system - java application
