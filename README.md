@@ -137,13 +137,3 @@ Enter the number of days for rental: 2
 - Improve input validation and error handling.
 - Add user authentication and administrative features.
 
-## 👩‍💻 Author
-
-**Samridhi Gupta**
-
-- GitHub: [@samgupta221](https://github.com/samgupta221)
-- Project Repository: [Car Rental System](https://github.com/samgupta221/Car-rental-system)
-
----
-
-If you find this project useful, consider giving the repository a ⭐ on GitHub.
