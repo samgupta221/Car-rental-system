@@ -38,55 +38,6 @@ Car-Rental-System/
 └── README.md
 ```
 
-*Note: The exact file structure may vary depending on your local project setup.*
-
-## ⚙️ Prerequisites
-
-Before running the project, make sure you have:
-
-- Java Development Kit (JDK) installed.
-- Visual Studio Code or another Java-compatible IDE.
-- A terminal such as PowerShell or Command Prompt.
-
-Check your Java installation:
-
-```powershell
-java -version
-javac -version
-```
-
-## 🚀 How to Run the Project
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/samgupta221/Car-rental-system.git
-```
-
-### 2. Navigate to the Source Directory
-
-```bash
-cd Car-rental-system/Car-Rental-System/src
-```
-
-If your cloned repository contains `src` directly in its root, use:
-
-```bash
-cd Car-rental-system/src
-```
-
-### 3. Compile the Java Files
-
-```bash
-javac *.java
-```
-
-### 4. Run the Application
-
-```bash
-java Main
-```
-
 ## 💻 Sample Output
 
 ```text
@@ -109,8 +60,6 @@ Enter the car ID you want to rent: C002
 Enter the number of days for rental: 2
 ```
 
-*Note: The sample shows the expected format of a rental interaction. Successful rental depends on the application's validation and availability logic.*
-
 ## 📖 How It Works
 
 1. The application displays a menu with options to rent a car, return a car, or exit.
@@ -127,13 +76,4 @@ Enter the number of days for rental: 2
 - Working with arrays or collections and application logic.
 - Accepting and validating console input.
 - Implementing basic car rental workflows.
-
-## 🔮 Future Improvements
-
-- Add a graphical user interface or web interface.
-- Integrate MySQL for persistent data storage.
-- Calculate rental charges automatically.
-- Add customer and rental history management.
-- Improve input validation and error handling.
-- Add user authentication and administrative features.
 
