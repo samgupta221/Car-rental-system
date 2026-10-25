@@ -24,20 +24,6 @@ This project demonstrates core Java programming concepts, object-oriented progra
 - Java Scanner for user input
 - Command-Line Interface (CLI)
 
-## 📂 Project Structure
-
-```text
-Car-Rental-System/
-├── src/
-│   ├── Main.java
-│   ├── Car.java
-│   ├── CarRentalSystem.java
-│   ├── Customer.java
-│   └── Rental.java
-├── .gitignore
-└── README.md
-```
-
 ## 💻 Sample Output
 
 ```text
